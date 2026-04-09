@@ -1,7 +1,7 @@
 # Rogue
 Игра "Rogue" на языке Go.
 
-![rogue](images/rogue.png)
+![rogue](src/images/rogue.png)
 
 ### Логика игры
 - Игра содержит 21 уровень с подземельями.
