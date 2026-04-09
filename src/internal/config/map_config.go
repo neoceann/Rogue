@@ -5,7 +5,7 @@ import "github.com/gdamore/tcell/v2"
 // Game balance & world rules — may be adjusted by game designer
 const (
 	LevelNum         = 21
-	FogOfWar         = true
+	FogOfWar         = false
 	GameFieldWidth   = 100                          // X
 	GameFieldLength  = 40                           // Y
 	RoomsInWidth     = 3
